@@ -1,0 +1,50 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+    <title>LG Home Appliances</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <h1></h1>
+            <ul>
+                <li>Make Your Feel Comfort With us!</li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="contacts.html">Contact Us</a></li>
+            </ul>
+        </nav>
+
+
+    <div class="products">
+        <div class="box">
+            <img src="./assest/Refrigilators.jpg"width="300"height="300">
+            <p>DISCOUNT PRODUCTS</p>
+        </div>
+<div class="box1">
+            <img src="./assest/Mobiles.jpg"width="300"height="300">
+            <p>BUDGET FRIENDLY</p>
+        </div>
+        <div class="box2">
+            <img src="./assest/Washing machine.jpg"width="300"height="300">
+            <p>SUMMER OFFERS</p>
+        </div>
+    </div>
+
+    <div class="about">
+        <h1>About Us</h1>
+        <p>Hi Everyone.This is Gayathri from LG APPLIANCES!I hope you all are good.I were dedicated to enhancing everyday life with innovative technology,style design and upcomprimising quality.
+        Smart living starts with LG!
+        </p>
+    </div>
+
+    <div class="contact">
+        <h4>Contact</h4>
+        <p>9894625116</p>
+        <p>lgappliances@gmail.com</p>
+        <P style="margin-top: 30px;font-size:medium;">12,Ram nagar,erode-115.</P>
+    </div>
+</body>
+</html>
